@@ -1,0 +1,5 @@
+.math-block {
+    width: 15px;
+    position: absolute;
+    z-index: 9;
+}
